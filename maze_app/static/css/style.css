@@ -1,0 +1,14 @@
+/* Reset default browser styles */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set canvas to fill the entire viewport */
+#gameCanvas {
+    display: block;
+    margin: auto;
+    background-color: #000; /* Set background color for the canvas */
+}
+
+/* Add any additional styles as needed */
